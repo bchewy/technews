@@ -13,6 +13,7 @@
 - https://news.ycombinator.com/
 - http://www.networkworld.com/
 - http://techgenix.com/top-tech-news/
+- https://www.dzone.com
 
 ## Software Blogs
 - https://www.thoughtworks.com/radar
