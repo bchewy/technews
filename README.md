@@ -44,7 +44,7 @@
 - https://www.digitalocean.com/company/blog/
 
 ## Research papers
-- http://paperswelove.org/
+- http://paperswelove.org/ (https://github.com/papers-we-love/papers-we-love)
 
 ## Podcasts
 - https://softwareengineeringdaily.com/
